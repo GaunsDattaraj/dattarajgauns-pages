@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gaunsdattaraj.github.io/dattarajgauns-pages/sitemap.xml
